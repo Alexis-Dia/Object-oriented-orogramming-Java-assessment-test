@@ -15,6 +15,7 @@ package by.bntu.fitr.povt.alexeyd.lab07;
  * Answer:
  * A. post-condition loop (цикл с постусловие)
  * B. loop with a counter (цикл со счётчиком)
+ * C. loop without a counter (цикл без счётчика)
  * I. pre-condition loop (цикл с предусловие)
  */
 public class Lab07Exercise1 {
