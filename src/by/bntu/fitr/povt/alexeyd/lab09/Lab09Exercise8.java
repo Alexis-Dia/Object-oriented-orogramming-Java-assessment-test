@@ -9,7 +9,7 @@ package by.bntu.fitr.povt.alexeyd.lab09;
  *  E. Array array = new Array(5);
  *  F. boolean array [ ] = new boolean[5];
  *  G. int array[ ] = new int[] {3, 2, 1, 0, -1};
- * Answer: B, D, E, G
+ * Answer: B, D, G
  */
 public class Lab09Exercise8 {
 
