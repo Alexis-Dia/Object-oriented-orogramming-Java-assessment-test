@@ -1,7 +1,7 @@
 package by.bntu.fitr.povt.alexeyd.lab05;
 import java.util.Random;
 
-class Test {
+public class Test {
 
 }
 
