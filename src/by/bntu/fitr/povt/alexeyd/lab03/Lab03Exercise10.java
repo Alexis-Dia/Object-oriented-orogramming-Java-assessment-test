@@ -1,12 +1,13 @@
-package by.bntu.fitr.povt.alexeyd.lab04;
+package by.bntu.fitr.povt.alexeyd.lab03;
 
 /**
  *
  * Answer:
  */
-public class Lab04Exercise20 {
+public class Lab03Exercise10 {
 
     public static void main(String[] args) {
+
 
     }
 }

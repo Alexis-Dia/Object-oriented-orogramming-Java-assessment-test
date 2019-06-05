@@ -1,10 +1,10 @@
-package by.bntu.fitr.povt.alexeyd.lab04;
+package by.bntu.fitr.povt.alexeyd.lab03;
 
 /**
  *
  * Answer:
  */
-public class Lab04Exercise12 {
+public class Lab03Exercise12 {
 
     public static void main(String[] args) {
         byte[] array = new byte[6];

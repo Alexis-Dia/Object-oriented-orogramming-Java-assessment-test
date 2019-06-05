@@ -18,5 +18,9 @@ public class Lab05Exercise11 {
         double d = 4;
         d = d+++d---d--;
         System.out.println(d);
+/*        for (int i = 0; i < 10; i++) {
+            d++;
+            System.out.println(d);
+        }*/
     }
 }
