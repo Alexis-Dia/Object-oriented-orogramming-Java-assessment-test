@@ -1,13 +1,12 @@
 package by.bntu.fitr.povt.alexeyd.lab01;
 
 /**
- * Is JRE smaller than JDK?
+ *  Who is creator of Java Language?
  * Answer:
- * Yes
+ * 2. James Gosling
  */
-public class Lab01Exercise18 {
+public class Lab01Exercise21 {
 
     public static void main(String[] args) {
-
     }
 }
